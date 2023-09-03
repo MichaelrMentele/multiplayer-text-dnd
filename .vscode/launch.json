@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "args": ["-v"],
+      "console": "integratedTerminal",
+      "module": "multiplayer-text-rpg",
+      "name": "Run API",
+      "request": "launch",
+      "showReturnValue": true,
+      "type": "python"
+    }
+  ],
+  "version": "0.2.0"
+}

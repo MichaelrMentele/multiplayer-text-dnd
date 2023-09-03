@@ -1,18 +1,17 @@
 {
-    "schema_version": "v1",
-    "name_for_human": "TODO List (no auth)",
-    "name_for_model": "todo",
-    "description_for_human": "Manage your TODO list. You can add, remove and view your TODOs.",
-    "description_for_model": "Plugin for managing a TODO list, you can add, remove and view your TODOs.",
-    "auth": {
-      "type": "none"
-    },
-    "api": {
-      "type": "openapi",
-      "url": "http://localhost:5003/openapi.yaml"
-    },
-    "logo_url": "http://localhost:5003/logo.png",
-    "contact_email": "legal@example.com",
-    "legal_info_url": "http://example.com/legal"
-  }
-  
+  "schema_version": "v1",
+  "name_for_human": "Multi-player Text RPG",
+  "name_for_model": "multi-player-text-rpg",
+  "description_for_human": "Play a text based adventure with your friends.",
+  "description_for_model": "Plugin to play a text based adventure with friends.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:5003/openapi.yaml"
+  },
+  "logo_url": "http://localhost:5003/logo.png",
+  "contact_email": "legal@example.com",
+  "legal_info_url": "http://example.com/legal"
+}
